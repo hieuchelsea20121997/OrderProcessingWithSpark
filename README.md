@@ -29,7 +29,9 @@ notebooks/: Contains Jupyter notebooks for data analysis.
 src/: Contains scripts for processing and analyzing data.
 README.md: Project description file.
 requirements.txt: List of required libraries.
+
 **Installation**
+
 Clone the repository:
 git clone https://github.com/username/OrderProcessingWithSpark.git
 cd OrderProcessingWithSpark
@@ -45,7 +47,11 @@ Using Jupyter Notebook
 Launch Jupyter Notebook:
 jupyter notebook
 Open and run the notebooks in the notebooks directory.
+
 **Contributing**
+
 We welcome contributions from the community. If you have any ideas for improvements or find any bugs, please create an issue or submit a pull request.
+
 **Contact**
+
 If you have any questions or feedback, please contact us via email: trunghieu201297@gmail.com
